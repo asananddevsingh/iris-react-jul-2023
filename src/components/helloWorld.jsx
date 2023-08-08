@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 export function HelloWorld() {
   return <h1>Hello World From Component.</h1>;
 }
